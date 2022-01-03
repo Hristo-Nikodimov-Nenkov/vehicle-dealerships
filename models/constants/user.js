@@ -10,7 +10,9 @@ export const password = {
 };
 
 export const userRoles = {
-   client: "User",
+   client: "Client",
+   dealer: "Dealer",
+   support: "Support",
    admin: "Admin",
 };
 
