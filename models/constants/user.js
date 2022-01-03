@@ -1,7 +1,7 @@
 export const username = {
    allowedRegex: /^[a-zA-Z0-9.\-_]+$/,
-   minLength: 6,
-   maxLength: 30,
+   minLength: 4,
+   maxLength: 40,
 };
 
 export const password = {
