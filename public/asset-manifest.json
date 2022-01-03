@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c90cf8b8.css",
+    "main.js": "/static/js/main.2e133822.js",
+    "static/js/787.070db070.chunk.js": "/static/js/787.070db070.chunk.js",
+    "static/media/AcariSans-MediumItalic.ttf": "/static/media/AcariSans-MediumItalic.650c10765deb835d8369.ttf",
+    "static/media/AcariSans-Regular.ttf": "/static/media/AcariSans-Regular.263e387827037ed2121c.ttf",
+    "static/media/AcariSans-Medium.ttf": "/static/media/AcariSans-Medium.c1698a3c651d9782e982.ttf",
+    "static/media/AcariSans-ExtraBoldItalic.ttf": "/static/media/AcariSans-ExtraBoldItalic.8d1ce3b20ef60bc29e4a.ttf",
+    "static/media/AcariSans-ExtraLightItalic.ttf": "/static/media/AcariSans-ExtraLightItalic.050a3bb0cfdd01e21449.ttf",
+    "static/media/AcariSans-ExtraBold.ttf": "/static/media/AcariSans-ExtraBold.ebc77598dfaef04cc525.ttf",
+    "static/media/AcariSans-LightItalic.ttf": "/static/media/AcariSans-LightItalic.ed4aac4456a92ceca8c0.ttf",
+    "static/media/AcariSans-Italic.ttf": "/static/media/AcariSans-Italic.3d89ede15534d414044f.ttf",
+    "static/media/AcariSans-SemiBoldItalic.ttf": "/static/media/AcariSans-SemiBoldItalic.a07bfc6638143fa39dbc.ttf",
+    "static/media/AcariSans-BoldItalic.ttf": "/static/media/AcariSans-BoldItalic.1ae855d0bedca8b71fd7.ttf",
+    "static/media/AcariSans-Light.ttf": "/static/media/AcariSans-Light.fec42ed06b35837d2ada.ttf",
+    "static/media/AcariSans-ExtraLight.ttf": "/static/media/AcariSans-ExtraLight.b1f6ed496a122ee79836.ttf",
+    "static/media/AcariSans-Bold.ttf": "/static/media/AcariSans-Bold.c7611116e0cdbf72b0c2.ttf",
+    "static/media/AcariSans-SemiBold.ttf": "/static/media/AcariSans-SemiBold.ae9cc4e3fc64ab5d206b.ttf",
+    "index.html": "/index.html",
+    "main.c90cf8b8.css.map": "/static/css/main.c90cf8b8.css.map",
+    "main.2e133822.js.map": "/static/js/main.2e133822.js.map",
+    "787.070db070.chunk.js.map": "/static/js/787.070db070.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c90cf8b8.css",
+    "static/js/main.2e133822.js"
+  ]
+}
